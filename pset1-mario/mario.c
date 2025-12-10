@@ -8,7 +8,7 @@ void printHash(int j);
 // Main program
 int main()
 {
-    // Declare i for pyramid's heigh
+    // Declare i for pyramid's height
     int i;
 
     // Looping until the height is correctly inputted
