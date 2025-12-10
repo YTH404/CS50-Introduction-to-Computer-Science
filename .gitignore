@@ -1,0 +1,20 @@
+# Compiled C binaries and object files
+*.out
+*.o
+*.exe
+
+# Python cache
+__pycache__/
+*.pyc
+
+# SQL temporary files
+*.sqlite3
+*.db
+
+# IDE/editor settings
+.vscode/
+*.swp
+
+# OS-specific files
+.DS_Store
+Thumbs.db
